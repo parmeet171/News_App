@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.802fd55d.css","mappings":"AAIA,KACE,4BACF,CAEA,KACE,qBACF","sources":["App.css"],"sourcesContent":["/* .color_black li link{\n    color: black;\n} */\n\n.box {\n  box-shadow: 2px 2px 15px black;\n}\n\nbody {\n  background-color: #ccc;\n}"],"names":[],"sourceRoot":""}
